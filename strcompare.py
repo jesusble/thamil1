@@ -1,0 +1,5 @@
+a=input("Enter the firsts tring"))
+b=input("Enter the second string"))
+print("The first string is",a)
+print("The second string is",b)
+print('stringcompare',a.strcmp()+b.strcmp())
